@@ -17,3 +17,4 @@ hsuyelin/nas-tools
 xhofe/alist
 ccf2012/seedcross:latest
 linuxserver/jackett
+
