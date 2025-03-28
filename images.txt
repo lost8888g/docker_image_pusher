@@ -18,3 +18,4 @@ xhofe/alist
 ccf2012/seedcross:latest
 linuxserver/jackett
 jellyfin/jellyfin
+linuxserver/thelounge
