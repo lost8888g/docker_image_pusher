@@ -8,7 +8,7 @@ hicane/emby_115
 hicane/emby_nginx
 amilys/embyserver
 cloudnas/clouddrive2
-linuxserver/qbittorrent
+linuxserver/qbittorrent:5.1.4
 gdy666/lucky
 nyanmisaka/jellyfin
 linuxserver/transmission
