@@ -20,3 +20,4 @@ linuxserver/jackett
 jellyfin/jellyfin
 linuxserver/thelounge
 johngong/baidunetdisk
+
