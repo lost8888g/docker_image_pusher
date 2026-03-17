@@ -20,3 +20,5 @@ johngong/baidunetdisk
 flaresolverr/flaresolverr
 crossseed/cross-seed
 6053537/portainer-ce
+linuxserver/sonarr
+linuxserver/radarr
