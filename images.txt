@@ -19,3 +19,4 @@ linuxserver/thelounge
 johngong/baidunetdisk
 flaresolverr/flaresolverr
 crossseed/cross-seed
+6053537/portainer-ce
