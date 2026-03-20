@@ -23,3 +23,4 @@ crossseed/cross-seed
 linuxserver/sonarr
 linuxserver/radarr
 linuxserver/prowlarr
+ghcr.io/autobrr/qui
